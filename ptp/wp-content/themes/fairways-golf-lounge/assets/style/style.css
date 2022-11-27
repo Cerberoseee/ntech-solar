@@ -1,0 +1,54 @@
+.fw-3{
+  font-weight: 300px;
+}
+.fw-4{
+  font-weight: 400px;
+}
+.fw-5{
+  font-weight: 500px;
+}
+.fw-6{
+  font-weight: 600px;
+}
+.fw-7{
+  font-weight: 700px;
+}
+.fw-8{
+  font-weight: 800px;
+}
+.fw-9{
+  font-weight: 900px;
+}
+.size-14{
+  size: 14px;
+  line-height: 21px;
+}
+.size-16{
+  size: 16px;
+  line-height: 24px;
+}
+.size-18{
+  size: 18px;
+  line-height: 27px;
+}
+.size-20{
+  size: 20px;
+  line-height: 30px;
+}
+.size-28{
+  size: 28px;
+  line-height: 42px;
+}
+.size-36{
+  size: 36px;
+  line-height: 54px;
+}
+.color-red{
+  color: #A92D2D;
+}
+.color-white{
+  color: #FFFFFF;
+}
+.color-black{
+  color: #1B1A19;
+}

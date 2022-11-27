@@ -1,0 +1,29 @@
+header .menu{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+  align-items: center;
+  margin-left: 130px;
+  margin-right: 130px;
+}
+header .left-menu{
+  width: 40%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+header p{
+  fill: black;
+  color: black;
+}
+header a{
+  text-decoration: none;
+}
+header .button-contact{
+  padding: 12px 17px;
+  border: none;
+  background-image: linear-gradient(to right,#EE3F40, #FBBF4C);
+  border-radius: 8px;
+}

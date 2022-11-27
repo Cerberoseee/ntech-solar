@@ -1,0 +1,270 @@
+footer  .footer-bottom {
+  background-color: #1D3571;
+  width:100%;
+}
+
+.active-footer {
+  display: block!important;
+}
+
+footer .footer-top {
+  margin: 20px 10%;
+  display: none;
+}
+
+.banner-wrapper {
+  padding-left: 0 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width:100%;
+  background: #ffff;
+  box-shadow: 0 2px 12px 2px rgb(0 0 0 / 16%);
+  margin: 60px 0;
+  border-radius: 12px;
+}
+
+.banner-bar {
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+  border-radius: 12px;
+}
+
+.banner-quality{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 15px 10px;
+}
+
+.quality-logo {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 8px;
+}
+
+.quality-title {
+  min-width: 178px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.quality-text {
+  text-align: center;
+}
+
+
+.discount {
+  background: #fbe8b6;
+  padding: 20px;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  max-width: inherit;
+  border-radius: 8px;
+  height: fit-content;
+  max-width: 300px;
+}
+
+.discount-logo{
+  width: auto;
+  margin-right: 5px;
+}
+
+img.discount-logo {
+  max-width: 30px;
+}
+
+.discount-title {
+  color: #db4d20;
+  font-weight: 700;
+  text-align: start;
+  margin-top: 8px;
+}
+
+h5.discount-title {
+  margin-bottom: 0;
+}
+
+.discount-text {
+  text-align: start;
+}
+
+
+footer .container .big-wrapper {
+    padding: 32px 100px;
+
+}
+
+footer .wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+footer .sub-wrapper {
+  width: 60%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+footer .first-col {
+  width: 24%;
+}
+
+footer .motto {
+  max-width: 224px;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+footer .logo {
+  margin-bottom: 16px;
+}
+
+footer .network {
+  display: flex;
+  flex-direction: column;
+}
+
+footer .media {
+  margin-top: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+footer .network .social {
+  width: 46%;
+  margin-bottom: 10px;
+}
+
+footer .content p {
+  margin-bottom: 4px;
+}
+
+footer .content p:hover {
+  opacity: 1;
+  transition: 0.2s ease;
+}
+footer .sub-content:first-child {
+  margin-bottom: 32px;
+}
+
+footer .contact {
+  display: flex;
+  flex-direction: row;
+}
+
+footer .contact p {
+  margin-right: 5px;
+}
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  border-top: 1px solid #FFFFFF;
+  padding-top: 12px;
+}
+
+.footer-content img {
+  max-height: 48px;
+  height: 100%;
+  width: 100%;
+  max-width: 127px;
+}
+
+
+
+@media (max-width: 1400px) {
+  footer .container .big-wrapper {
+    padding: 32px 40px;
+  }
+}
+
+@media (max-width: 1200px) {
+  footer .container .big-wrapper {
+    padding: 32px 0px;
+  }
+  footer .sub-wrapper {
+    width: 34%;
+  }
+  footer .first-col {
+    width: 28%;
+  }
+  footer .network .social {
+    width: 40%;
+  }
+}
+
+@media (max-width: 992px) {
+  footer .wrapper {
+    flex-direction: column;
+  }
+  footer .first-col {
+    width: 100%;
+  }
+  footer .motto {
+    max-width: 600px;
+  }
+  footer .network {
+    margin-bottom: 20px;
+  }
+  footer .network .social {
+    width: 17%;
+    justify-content: flex-start;
+  }
+  footer .sub-wrapper {
+    width: 66%;
+    margin-bottom: 20px;
+  }
+  footer .sub-wrapper .content {
+    width: 48%;
+  }
+
+}
+
+@media (max-width: 768px) {
+  footer .container .big-wrapper {
+    padding: 20px 0;
+  }
+  footer .network .social {
+    width: 22%;
+  }
+  footer .sub-wrapper {
+    width: 90%;
+  }
+
+  .banner-bar {
+    flex-wrap: wrap;
+  }
+
+  .banner-quality {
+    width: 50%;
+  }
+
+}
+
+@media (max-width: 576px) {
+  footer .network .social {
+    width: 34%;
+  }
+  footer .sub-wrapper {
+    width: 100%;
+  }
+  .footer-content {
+    flex-direction: column;
+  }
+  footer .sub-wrapper .content {
+    width: 50%;
+  }
+  footer .contact {
+    flex-direction: column;
+    Ư
+}

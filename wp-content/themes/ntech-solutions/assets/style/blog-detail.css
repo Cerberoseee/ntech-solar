@@ -1,0 +1,147 @@
+.news-detail {
+  padding: 60px 0;
+}
+
+.news-detail-page {
+  padding-top: 70px;
+}
+.news-detail-wrapper {
+  padding: 60px 30px;
+  background: #fff;
+  box-shadow: 0 2px 12px 2px rgb(0 0 0 / 16%);
+  border-radius: 12px;
+}
+.news-date-share {
+    margin-bottom: 30px;
+    font-size: 0.875rem;
+}
+
+
+.social-link li {
+    margin-right: 0 !important;
+    margin-left: 5px;
+}
+
+.social-link a {
+    display: block;
+}
+
+.news-updated-at {
+  color: #3C90CD !important;
+}
+
+.news-details-body {
+    font-size: 0.875rem;
+}
+
+.elife-post-others {
+    margin-top: 30px;
+    padding-top: 30px;
+    border-top: 1px solid #eee;
+    font-size: 0.875rem;
+}
+
+.elife-post-others ul li {
+    margin: 5px 0;
+}
+
+
+.share-social ul {
+  list-style-type: none;
+  padding-left: 1rem !important;
+}
+
+.share-social li {
+  margin-right: 10px;
+}
+.news-detail .share-social-icon img {
+  width: 37px;
+  height: 37px;
+}
+.news-detail .section-sitemap-title {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+  max-width: 100%;
+  line-height: 1.625em;
+  font-weight: 600;
+  color: #1D3571 !important;
+  position: relative;
+}
+
+.news-updated-at {
+  font-size: 16px;
+}
+
+.news-detail .share-label {
+  color: #3C90CD !important;
+  font-size: 16px;
+}
+
+.news-detail .flex-align {
+  display: flex;
+  align-items: center;
+}
+
+.news-detail-body img {
+  max-width: 100%;
+  height: auto;
+  display: inline-block;
+}
+.news-detail .share-social {
+  width: 87%;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  flex-direction: row;
+}
+.news-detail .align-middle {
+  vertical-align: middle;
+}
+.news-detail .share-social ul {
+  width: 75px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin:0!important;
+}
+
+.news-detail-page .elife-post-others a{
+  text-decoration: none;
+  color: #000;
+  margin: 10px 0;
+}
+
+.news-detail-page .elife-post-others ul {
+  padding-left: 1rem!important;
+}
+
+.news-detail-page .elife-post-others li {
+  font-size: 16px;
+}
+@media (max-width: 992px) {
+  .news-detail-wrapper {
+    padding: 40px 30px;
+  }
+}
+
+@media (max-width: 768px) {
+  .news-detail {
+    padding: 30px 0;
+  }
+  .news-detail-wrapper {
+    padding: 20px 30px;
+  }
+  .news-detail .share-social {
+    justify-content: left;
+  }
+}
+
+@media (max-width: 567px) {
+  .news-detail {
+    padding: 15px 0;
+  }
+  .news-detail-wrapper {
+    padding: 20px;
+  }
+}

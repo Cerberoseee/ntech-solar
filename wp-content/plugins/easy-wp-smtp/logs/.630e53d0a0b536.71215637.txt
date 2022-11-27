@@ -1,0 +1,57 @@
+[08/30/2022 6:15:44 PM] - Easy WP SMTP debug log file
+
+[09/02/2022 6:43:15 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 8:50:47 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 8:53:43 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 8:57:02 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 8:59:04 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 9:03:38 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 9:07:50 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 9:08:22 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 9:28:32 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 9:29:06 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 9:29:07 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 9:30:05 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 9:30:40 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 2:11:23 PM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 2:38:33 PM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 2:39:45 PM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 2:41:42 PM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 2:46:40 PM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 3:41:40 PM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 4:48:51 PM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 5:19:13 PM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 5:27:58 PM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 5:29:38 PM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/03/2022 5:32:23 PM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/04/2022 7:55:32 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/04/2022 8:16:12 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/05/2022 1:16:51 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/05/2022 1:38:25 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/05/2022 1:46:56 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/05/2022 1:50:34 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/05/2022 1:54:27 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/05/2022 2:00:14 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/05/2022 2:01:35 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/05/2022 2:24:20 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/05/2022 4:35:11 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/05/2022 5:40:47 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/05/2022 6:50:26 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/05/2022 6:50:59 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/05/2022 6:51:36 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/05/2022 7:22:09 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/05/2022 3:30:20 PM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions "[your-subject]"
+[09/20/2022 2:20:22 PM] - Headers: , To: tranlethaison123@gmail.com, Subject: [NTech Solutions] Some plugins were automatically updated
+[09/30/2022 4:48:08 PM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions Chi tiết đơn hàng
+[10/04/2022 2:44:16 PM] - Headers: , To: tranlethaison123@gmail.com, Subject: NTech Solutions Contact
+[10/05/2022 2:16:29 PM] - Headers: , To: tranlethaison123@gmail.com, Subject: [NTech Solutions] Some plugins were automatically updated
+[10/11/2022 2:05:34 PM] - Headers: , To: tranlethaison123@gmail.com, Subject: [NTech Solutions] Some plugins were automatically updated
+[10/12/2022 3:06:50 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: [NTech Solutions] New User Registration
+[10/12/2022 3:06:54 AM] - Headers: , To: trando.10k12@gmail.com, Subject: [NTech Solutions] Login Details
+[10/17/2022 11:07:47 PM] - Headers: , To: tranlethaison123@gmail.com, Subject: [NTech Solutions] Trang mạng của bạn đã được nâng cấp lên WordPress 6.0.3
+[10/22/2022 2:35:15 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: [NTech Solutions] Một số plugin đã được cập nhật tự động
+[10/25/2022 3:26:22 PM] - Headers: , To: tranlethaison123@gmail.com, Subject: [NTech Solutions] Một số plugin đã được cập nhật tự động
+[10/31/2022 2:07:43 PM] - Headers: , To: tranlethaison123@gmail.com, Subject: [NTech Solutions] Một số plugin đã được cập nhật tự động
+[11/02/2022 2:05:19 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: [NTech Solutions] Trang mạng của bạn đã được nâng cấp lên WordPress 6.1
+[11/08/2022 2:05:21 PM] - Headers: , To: tranlethaison123@gmail.com, Subject: [NTech Solutions] Một số plugin đã được cập nhật tự động
+[11/16/2022 2:04:17 AM] - Headers: , To: tranlethaison123@gmail.com, Subject: [NTech Solutions] Trang mạng của bạn đã được nâng cấp lên WordPress 6.1.1

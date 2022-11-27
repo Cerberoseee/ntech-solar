@@ -1,0 +1,12 @@
+.project-list-section{
+  padding:50px 0
+}
+.project-list__header{
+  margin-bottom:50px
+}
+.project-list__summary{
+    max-width:536px;
+    margin:0 auto;
+    text-align:center;
+    color:#6B84AD !important
+}

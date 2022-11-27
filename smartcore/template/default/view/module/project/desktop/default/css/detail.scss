@@ -1,0 +1,183 @@
+@import "../../../../../config";
+
+.project-detail-page .pd-banner {
+  &__sw-prev, &__sw-next {
+    width: 50px !important;
+    height: 50px !important;
+    @include border-radius(50%);
+    background: #fff;
+    left: 50px !important;
+    display: none !important;
+
+    &:after {
+      content: '' !important;
+      width: 0 !important;
+    }
+
+    .icon {
+      fill: $main-color;
+    }
+  }
+
+  &__sw-prev {
+    @include transform-rotate(-180deg);
+  }
+
+  &__sw-next {
+    left: auto !important;
+    right: 50px !important;
+  }
+}
+
+.project-detail-page .project-detail {
+  padding: 45px 0 100px;
+}
+.project-detail-page .project-detail__title {
+    font-family: "Montserrat", arial, serif;
+    font-size: 1.75rem;
+    font-weight: 500;
+    color: $main-color;
+    position: relative;
+    margin-bottom: 28px;
+}
+
+.project-detail-page .project-detail__content {
+    margin-top: 50px;
+    margin-bottom: 25px;
+    background: #fff;
+    border-radius: 12px;
+    @include bg-shadow;
+    overflow: hidden;
+}
+
+.project-detail-page .project-detail__description {
+    padding: 28px 20px 40px 20px;
+    height: 100%;
+    font-size: 0.875rem;
+}
+
+.project-detail-page .project-detail__info {
+    padding: 28px 20px 40px;
+    background: $secondary-color;
+    height: 100%;
+    color: #fff;
+    font-size: 0.875rem;
+}
+
+.project-detail-page .project-detail__description-content {
+    text-align: justify;
+    h2, h3, h4, h5, h6 {
+      font-family: Montserrat, Arial, Helvetica, sans-serif;
+      font-size: 1.25rem;
+      font-weight: 500 !important;
+      color: $main-color;
+
+      strong {
+        font-weight: 500 !important;
+      }
+  }
+
+    ul {
+      padding-left: 1rem;
+  }
+}
+
+.project-detail-page .info-item {
+  display: flex;
+  margin-bottom: 20px;
+}
+.project-detail-page .info-item:last-child {
+    margin-bottom: 0;
+}
+
+.project-detail-page .info-item__icon {
+    fill: #fff;
+    -webkit-flex-basis: 52px;
+    flex-basis: 52px;
+}
+
+
+.other-project {
+  padding: 25px 0;
+}
+
+.other-project-content {
+  position: relative;
+  width: 100%;
+}
+
+.other-project-pagination {
+  bottom: -38px !important;
+}
+
+/*** related product ***/
+.project-related-product {
+  padding: 25px 0;
+}
+
+.relatedproduct-swiper-button-prev {
+  left: 32px !important;
+  top: 40% !important;
+}
+
+.relatedproduct-swiper-button-next {
+  right: 28px !important;
+  top: 40% !important;
+}
+
+@media screen and (min-width: 768px) {
+  .pd-banner {
+    &__sw-prev, &__sw-next {
+      display: -webkit-flex !important;
+      display: flex !important;
+    }
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .pd-banner {
+    &__sw-prev, &__sw-next {
+      display: -webkit-flex !important;
+      display: flex !important;
+    }
+  }
+
+  .project-detail-page  .project-detail__title {
+      font-size: 2rem;
+  }
+
+  .project-detail-page  .project-detail__content {
+      margin-bottom: 50px;
+    }
+
+  .project-detail-page  .project-detail__description {
+      padding-left: 30px;
+      padding-right: 30px;
+      font-size: 1rem;
+    }
+
+  .project-detail-page  .project-detail__info {
+      padding-left: 30px;
+      padding-right: 30px;
+      font-size: 1rem;
+    }
+  }
+
+  .project-related-product {
+    padding: 50px 0 0;
+  }
+
+  .relatedproduct-swiper-button-prev {
+    left: -20px !important;
+    top: 50% !important;
+  }
+
+  .relatedproduct-swiper-button-next {
+    right: -20px !important;
+    top: 50% !important;
+  }
+
+  .other-project {
+    padding: 40px 0 50px;
+  }
+}
